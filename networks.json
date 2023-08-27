@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "OpenEdenVault": {
+      "address": "0x3F6C92F1276c77fb65A0fee0989012B27fbd416D",
+      "startBlock": 0
+    }
+  }
+}
